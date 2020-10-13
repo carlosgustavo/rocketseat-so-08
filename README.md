@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-The purpose of the application is similar to the business rule and data flow of the Tinder relationship application
+The purpose of the application is similar to the business rule and data flow of the Tinder relationship application.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-10">
@@ -40,10 +40,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/carlosgustavo/rocketseat-so-10.git
+$ git clone https://github.com/carlosgustavo/rocketseat-so-08.git
 
 # Go into the repository
-$ cd rocketseat-so-10/backend
+$ cd rocketseat-so-08/backend
 
 # Install dependencies
 $ yarn install
@@ -57,7 +57,7 @@ $ yarn dev
 ```bash
 
 # Go into the repository
-$ cd rocketseat-so-10/front-end
+$ cd rocketseat-so-08/front-end
 
 # Install dependencies
 $ yarn install
@@ -67,7 +67,7 @@ $ yarn start
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/rocketseat-so-10/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/rocketseat-so-08/blob/master/LICENSE) for more information.
 
 ---
 
