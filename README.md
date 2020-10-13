@@ -20,6 +20,7 @@ The purpose of the application is similar to the business rule and data flow of 
                          
 ![Semana-Omnistack-8](https://user-images.githubusercontent.com/53797220/95860252-2c721080-0d36-11eb-8338-fab67a67f1cf.gif)
 
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
