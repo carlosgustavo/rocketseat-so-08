@@ -18,7 +18,7 @@ The purpose of the application is similar to the business rule and data flow of 
   <a href="#memo-license">License</a>
 </p>
                          
-![front-end](https://user-images.githubusercontent.com/53797220/95795214-322d0f00-0cc0-11eb-8c2e-aad6de579e79.gif)
+![Semana-Omnistack-8](https://user-images.githubusercontent.com/53797220/95860252-2c721080-0d36-11eb-8338-fab67a67f1cf.gif)
 
 ## :rocket: Technologies
 
